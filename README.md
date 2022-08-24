@@ -37,6 +37,8 @@ Hi there 👋 I am Ross Whitfield, a physicist turned software engineer. I have 
 <div align="center">
 <a href="https://linkedin.com/in/ross-whitfield"> <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ornl.gov/staff-profile/ross-e-whitfield"><img src="./ORNL Two-line_color.png" alt="ORNL staff profile" height="24" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-9852-1044"><img src="https://orcid.org/sites/default/files/images/orcid_24x24.png" alt="ORCID iD"></a></div>
 
+<img src="https://raw.githubusercontent.com/rosswhitfield/rosswhitfield/runner/runner.svg" width="100%" />
+
 <!--
 **rosswhitfield/rosswhitfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
